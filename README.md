@@ -8,6 +8,13 @@ Designed for data analysts, business intelligence professionals, and SQL enthusi
 
 This **SQL Data Analytics Project** is part of a free, hands-on learning initiative by **[Data with Baraa](https://youtu.be/2jGhQpbzHes?si=JmumJmA9rARGb3LU)**. You can find him on YouTube, where he shares high-quality Data Engineering tutorials at no cost. Definitely check out his channel!
 
+## 🏗️ Power BI Dashboard
+**Customer Report**
+![image alt](https://github.com/patthebadcat/sql_data_analysis_project/blob/31a76077180e6d5fb6952b10a7d0e303d56bcd25/power%20bi/Customer%20Report.png)
+
+**Product Report**
+![image alt](https://github.com/patthebadcat/sql_data_analysis_project/blob/31a76077180e6d5fb6952b10a7d0e303d56bcd25/power%20bi/Product%20Report.png)
+
 ## 🛡 License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
