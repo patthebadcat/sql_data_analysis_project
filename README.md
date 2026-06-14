@@ -8,7 +8,7 @@ Designed for data analysts, business intelligence professionals, and SQL enthusi
 
 This **SQL Data Analytics Project** is part of a free, hands-on learning initiative by **[Data with Baraa](https://youtu.be/2jGhQpbzHes?si=JmumJmA9rARGb3LU)**. You can find him on YouTube, where he shares high-quality Data Engineering tutorials at no cost. Definitely check out his channel!
 
-## 🏗️ Power BI Dashboard
+## 🏗️ Power BI Dashboard [![Power BI]https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNTE5NWVlNmMtMjQ4My00MzA2LWI3YmItY2I0Zjc4Y2RkMjYxIiwidCI6IjlhZDE5MzNkLTY5YTgtNDg0YS04Njc1LTE5MjhjNDQ2NDFlYiJ9)
 **Customer Report**
 ![image alt](https://github.com/patthebadcat/sql_data_analysis_project/blob/bf0c71aeafd0aa2034aef8bdd6ef6dc55d5e9f80/power%20bi/Customer%20Report.png)
 
