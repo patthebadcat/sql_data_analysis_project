@@ -10,10 +10,10 @@ This **SQL Data Analytics Project** is part of a free, hands-on learning initiat
 
 ## 🏗️ Power BI Dashboard
 **Customer Report**
-![image alt]()
+![image alt](https://github.com/patthebadcat/sql_data_analysis_project/blob/bf0c71aeafd0aa2034aef8bdd6ef6dc55d5e9f80/power%20bi/Customer%20Report.png)
 
 **Product Report**
-![image alt]()
+![image alt](https://github.com/patthebadcat/sql_data_analysis_project/blob/bf0c71aeafd0aa2034aef8bdd6ef6dc55d5e9f80/power%20bi/Product%20Report.png)
 
 ## 🛡 License
 
